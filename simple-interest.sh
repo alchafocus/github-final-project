@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <dummy>
+   # <alchafocus>
 
    # Input:
    # p, principal amount
